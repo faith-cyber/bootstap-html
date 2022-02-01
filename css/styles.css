@@ -394,7 +394,7 @@ select:disabled {
   display: block;
   text-align: center;
   position: relative;
-  left: 530px;
+  left: 60px;
   top: 200px;
   animation: zoomInOut 1s linear infinite;
   
